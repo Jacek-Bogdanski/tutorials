@@ -2,10 +2,9 @@
                             background: #fff;
                             width: 100%;
                             margin: 0;
-                            font-family: Verdana, Geneva, Tahoma, sans-serif;
                         }
                         
-                        a ol {
+                        ol {
                             list-style-type: none;
                             padding: 0;
                             margin: 0;
@@ -40,7 +39,6 @@
                             margin-right: 20px;
                             border: #fff double 10px;
                             border-top: none;
-                            position: absolute;
                         }
                         
                         ol>li:hover>ul {
@@ -65,9 +63,6 @@
                             background: #292F36;
                             color: white;
                             font-family: Verdana, Geneva, Tahoma, sans-serif;
-                            position: fixed;
-                            top: 0px;
-                            left: 0px;
                         }
                         
                         .mainMenu {
@@ -109,19 +104,10 @@
                             max-width: 1000px;
                             padding: 20px;
                             margin: 20px auto;
+                            font-family: Verdana, Geneva, Tahoma, sans-serif;
                         }
                         
                         .inboxImage {
                             height: 250px;
                             float: right;
-                        }
-                        
-                        .mainFooter {
-                            height: 50px;
-                            background-color: #333;
-                            color: white;
-                            box-sizing: border-box;
-                            padding: 10px;
-                            text-align: center;
-                            font-size: 15px;
                         }
