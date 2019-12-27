@@ -63,6 +63,9 @@
                             background: #292F36;
                             color: white;
                             font-family: Verdana, Geneva, Tahoma, sans-serif;
+                            position: fixed;
+                            top: 0;
+                            left: 0;
                         }
                         
                         .mainMenu {
@@ -103,6 +106,7 @@
                             line-height: 1.5em;
                             max-width: 1000px;
                             padding: 20px;
+                            padding-top: 40px;
                             margin: 20px auto;
                             font-family: Verdana, Geneva, Tahoma, sans-serif;
                         }
